@@ -1,0 +1,5 @@
+zother
+*.o
+*.so
+.vscode
+interfaces_proposition
