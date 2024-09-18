@@ -1,7 +1,7 @@
 
-# Arcade
+# Dynamic Game Engine
 
-Arcade is a gaming platform : a program that lets the user choose a game to play and keeps a register of player scores.
+Dynamic Game Engine is a gaming platform : a program that lets the user choose a game to play and keeps a register of player scores.
 To be able to deal with the elements of your gaming plateform at run-time, your graphics libraries and your games
 must be implemented as dynamic libraries, loaded at runtime.
 
